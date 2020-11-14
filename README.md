@@ -51,5 +51,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@kiyov09
-- Twitter [@kiyov09](https://{twitter.com/your-username})
+- GitHub [@kiyov09](https://github.com/kiyov09)
+- Twitter [@kiyov09](https://{twitter.com/kiyov09})
