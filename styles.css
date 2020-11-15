@@ -181,4 +181,8 @@ footer {
         margin-top: 0px;
         width: unset;
     }
+
+    footer {
+        bottom: 10px;
+    }
 }
