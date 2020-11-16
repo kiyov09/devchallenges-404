@@ -7,7 +7,7 @@
 </div>
 
 <div align="center"> <h3>
-    <a href="https://github.com/kiyov09/devchallenges-404">
+    <a href="https://404challenge.netlify.app/">
       Demo
     </a>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
